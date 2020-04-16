@@ -6,3 +6,4 @@ tutor: arul prasath
 2.)chat screen code
 3.)last seen code
 4.)attachments (image,video,audio) code
+5.)hiding the  last seen ( added after first commit be choosing edit symbol)
