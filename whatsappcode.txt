@@ -7,3 +7,6 @@ tutor: arul prasath
 3.)last seen code
 4.)attachments (image,video,audio) code
 5.)hiding the  last seen ( added after first commit be choosing edit symbol)
+
+6.)adding the audio call feature
+7.)adding the video call feature
